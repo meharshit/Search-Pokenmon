@@ -1,0 +1,6 @@
+framework module Pods_Search_Pokenmon {
+  umbrella header "Pods-Search Pokenmon-umbrella.h"
+
+  export *
+  module * { export * }
+}
